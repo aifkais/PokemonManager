@@ -1,0 +1,137 @@
+tucker gegen richboy
+
+Team tucker:
+HUNTAIL GOREBYSS RELICANTH CLEFABLE 
+
+Team richboy:
+HYPNO ELECTRODE OCTILLERY LUDICOLO 
+
+HUNTAIL mit 251 HP
+HYPNO mit 311 HP
+
+HYPNO setzt HYPER_BEAM ein
+verursacht 93 Schaden 
+
+HUNTAIL setzt CRUNCH ein
+Der Angriff ist sehr Effektiv
+verursacht 114 Schaden 
+
+HYPNO setzt HYPER_BEAM ein
+HYPNO muss sich aufladen
+verursacht 0 Schaden 
+
+HUNTAIL setzt CRUNCH ein
+Der Angriff ist sehr Effektiv
+verursacht 99 Schaden 
+
+HYPNO setzt HYPER_BEAM ein
+Der Angriff ging daneben
+verursacht 0 Schaden 
+
+HUNTAIL setzt CRUNCH ein
+Der Angriff ist sehr Effektiv
+verursacht 110 Schaden + Gegner SpDef -1
+
+HYPNO ist KO!
+
+HUNTAIL mit 158 HP
+ELECTRODE mit 261 HP
+
+ELECTRODE setzt HYPER_BEAM ein
+verursacht 68 Schaden 
+
+HUNTAIL setzt HYDRO_PUMP ein
+verursacht 173 Schaden 
+
+ELECTRODE setzt HYPER_BEAM ein
+ELECTRODE muss sich aufladen
+verursacht 0 Schaden 
+
+HUNTAIL setzt HYDRO_PUMP ein
+Der Angriff ging daneben
+verursacht 0 Schaden 
+
+ELECTRODE setzt HYPER_BEAM ein
+Der Angriff ging daneben
+verursacht 0 Schaden 
+
+HUNTAIL setzt HYDRO_PUMP ein
+verursacht 156 Schaden 
+
+ELECTRODE ist KO!
+
+HUNTAIL mit 90 HP
+OCTILLERY mit 291 HP
+
+HUNTAIL setzt CRUNCH ein
+verursacht 76 Schaden 
+
+OCTILLERY setzt HYPER_BEAM ein
+verursacht 115 Schaden 
+
+HUNTAIL ist KO!
+
+GOREBYSS mit 251 HP
+OCTILLERY mit 215 HP
+
+GOREBYSS setzt PSYCHIC ein
+verursacht 107 Schaden 
+
+OCTILLERY setzt HYPER_BEAM ein
+OCTILLERY muss sich aufladen
+verursacht 0 Schaden 
+
+GOREBYSS setzt PSYCHIC ein
+verursacht 106 Schaden 
+
+OCTILLERY setzt HYPER_BEAM ein
+verursacht 110 Schaden 
+
+GOREBYSS setzt PSYCHIC ein
+verursacht 100 Schaden 
+
+OCTILLERY ist KO!
+
+GOREBYSS mit 141 HP
+LUDICOLO mit 301 HP
+
+LUDICOLO setzt SOLAR_BEAM ein
+Der Angriff ist sehr Effektiv
+verursacht 307 Schaden 
+
+GOREBYSS ist KO!
+
+RELICANTH mit 341 HP
+LUDICOLO mit 301 HP
+
+LUDICOLO setzt SOLAR_BEAM ein
+Der Angriff ist sehr Effektiv
+verursacht 798 Schaden 
+
+RELICANTH ist KO!
+
+CLEFABLE mit 331 HP
+LUDICOLO mit 301 HP
+
+LUDICOLO setzt SOLAR_BEAM ein
+verursacht 153 Schaden 
+
+CLEFABLE setzt DOUBLE_SLAP ein
+Der Angriff ging daneben
+verursacht 0 Schaden 
+
+LUDICOLO setzt SOLAR_BEAM ein
+verursacht 134 Schaden 
+
+CLEFABLE setzt DOUBLE_SLAP ein
+verursacht 19 Schaden 
+
+LUDICOLO setzt SOLAR_BEAM ein
+verursacht 148 Schaden 
+
+CLEFABLE ist KO!
+
+tucker hat keine Pokemon mehr..
+Total dmg von tucker: 1060
+Total dmg von richboy: 1926
+richboy gewinnt gegen tucker
